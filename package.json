@@ -1,0 +1,23 @@
+{
+  "name": "vue-todo",
+  "version": "0.1.0",
+  "description": "Vue todos, and you can too",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbushman/vue-todo.git"
+  },
+  "author": "daniel@sngsft.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielbushman/vue-todo/issues"
+  },
+  "homepage": "https://github.com/danielbushman/vue-todo#readme"
+}
